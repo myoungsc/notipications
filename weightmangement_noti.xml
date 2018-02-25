@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <data>
+    
+    <item>
+        <title>1.0.1, 1.0.2 업데이트 내용</title>
+        <link>http://blog.naver.com/nosmoking16/221216165509</link>
+        <pubDate>2018.02.25</pubDate>
+        <id>1</id>
+    </item>
 
-  <item>
-  <title>몸무게매니저 출시</title>
-  <link>http://blog.naver.com/nosmoking16/221187672256</link>
-  <pubDate>2018.01.18</pubDate>
-  <id>0</id>
-  </item>
-
-
+    <item>
+        <title>몸무게매니저 출시</title>
+        <link>http://blog.naver.com/nosmoking16/221187672256</link>
+        <pubDate>2018.01.18</pubDate>
+        <id>0</id>
+    </item>
+    
 </data>
