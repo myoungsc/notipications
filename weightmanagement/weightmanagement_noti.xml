@@ -1,42 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <data>    
-    
+    <item>
+        <title>1.0.8 업데이트 내용</title>
+        <link>https://blog.naver.com/nosmoking16/221314813085</link>
+        <pubDate>2018.07.08</pubDate>
+        <id>7</id>
+    </item>
+
     <item>
         <title>1.0.7 업데이트 내용</title>
         <link>http://blog.naver.com/nosmoking16/221292434436</link>
         <pubDate>2018.06.05</pubDate>
         <id>6</id>
     </item>
-    
+
     <item>
         <title>1.0.6 업데이트 내용</title>
         <link>http://blog.naver.com/nosmoking16/221266210599</link>
         <pubDate>2018.05.02</pubDate>
         <id>5</id>
     </item>
-    
+
     <item>
         <title>1.0.5 업데이트 내용</title>
         <link>http://blog.naver.com/nosmoking16/221262837204</link>
         <pubDate>2018.04.27</pubDate>
         <id>4</id>
     </item>
-    
+
     <item>
         <title>1.0.4 업데이트 내용</title>
         <link>https://blog.naver.com/nosmoking16/221257719686</link>
         <pubDate>2018.04.20</pubDate>
         <id>3</id>
     </item>
-    
+
     <item>
         <title>1.0.3 업데이트 내용</title>
         <link>http://blog.naver.com/nosmoking16/221230081614</link>
         <pubDate>2018.03.16</pubDate>
         <id>2</id>
     </item>
-    
+
     <item>
         <title>1.0.1, 1.0.2 업데이트 내용</title>
         <link>http://blog.naver.com/nosmoking16/221216165509</link>
@@ -50,5 +56,5 @@
         <pubDate>2018.01.18</pubDate>
         <id>0</id>
     </item>
-    
+
 </data>
