@@ -1,19 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<data>    
+<data>
+
+    <item>
+        <title>1.21 업데이트 내용</title>
+        <link>https://blog.naver.com/nosmoking16/221357793500</link>
+        <pubDate>2018.09.13</pubDate>
+        <id>19</id>
+    </item>
+    
     <item>
         <title>1.20 업데이트 내용</title>
         <link>http://blog.naver.com/nosmoking16/221267621825</link>
         <pubDate>2018.05.03</pubDate>
         <id>18</id>
     </item>
+
     <item>
         <title>1.19 업데이트 내용</title>
         <link>http://blog.naver.com/nosmoking16/221224778759</link>
         <pubDate>2018.03.08</pubDate>
         <id>17</id>
     </item>
-    
+
     <item>
         <title>1.18 업데이트 내용</title>
         <link>http://blog.naver.com/nosmoking16/221208769169</link>
