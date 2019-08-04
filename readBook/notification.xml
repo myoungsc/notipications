@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>    
+    <item>
+        <title>공지사항3</title>
+        <link>https://blog.naver.com/nosmoking16/221449851975</link>
+        <pubDate>2019.01.27</pubDate>
+        <id>2</id>
+    </item>
+    
+    <item>
+        <title>공지사항</title>
+        <link>https://blog.naver.com/nosmoking16/221449851975</link>
+        <pubDate>2019.01.24</pubDate>
+        <id>1</id>
+    </item>
+    
+    <item>
+        <title>공지사항 2</title>
+        <link>https://blog.naver.com/nosmoking16/221434945544</link>
+        <pubDate>2019.01.05</pubDate>
+        <id>0</id>
+    </item>
+</data>
