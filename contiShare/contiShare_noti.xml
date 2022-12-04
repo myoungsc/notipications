@@ -1,44 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <data>
-    <item>
-        <title>1.0.5 업데이트 내용</title>
-        <link>https://blog.naver.com/nosmoking16/222897825082</link>
-        <pubDate>2022.10.11</pubDate>
-        <id>5</id>
-    </item>
-    <item>
-        <title>1.0.4 업데이트 내용</title>
-        <link>https://blog.naver.com/nosmoking16/222878096906</link>
-        <pubDate>2022.09.18</pubDate>
-        <id>4</id>
-    </item>
-    
-    <item>
-        <title>1.0.3 업데이트 내용</title>
-        <link>https://blog.naver.com/nosmoking16/222870590407</link>
-        <pubDate>2022.09.09</pubDate>
-        <id>3</id>
-    </item>
-    
-    <item>
-        <title>1.0.2 업데이트 내용</title>
-        <link>https://blog.naver.com/nosmoking16/222856610954</link>
-        <pubDate>2022.08.24</pubDate>
-        <id>2</id>
-    </item>
-    
-    <item>
-        <title>1.0.1 업데이트 내용</title>
-        <link>https://blog.naver.com/nosmoking16/222845376831</link>
-        <pubDate>2022.08.11</pubDate>
-        <id>1</id>
-    </item>
-    
-    <item>
-        <title>콘티 공유 출시</title>
-        <link>https://blog.naver.com/nosmoking16/222794511307</link>
-        <pubDate>2022.06.30</pubDate>
-        <id>0</id>
-    </item>
+  <item>
+    <title>서버 장애 발생</title>
+    <link>https://blog.naver.com/nosmoking16/222946328221</link>
+    <pubDate>2022.12.05</pubDate>
+    <id>6</id>
+  </item>
+  <item>
+    <title>1.0.5 업데이트 내용</title>
+    <link>https://blog.naver.com/nosmoking16/222897825082</link>
+    <pubDate>2022.10.11</pubDate>
+    <id>5</id>
+  </item>
+  <item>
+    <title>1.0.4 업데이트 내용</title>
+    <link>https://blog.naver.com/nosmoking16/222878096906</link>
+    <pubDate>2022.09.18</pubDate>
+    <id>4</id>
+  </item>
+  
+  <item>
+    <title>1.0.3 업데이트 내용</title>
+    <link>https://blog.naver.com/nosmoking16/222870590407</link>
+    <pubDate>2022.09.09</pubDate>
+    <id>3</id>
+  </item>
+  
+  <item>
+    <title>1.0.2 업데이트 내용</title>
+    <link>https://blog.naver.com/nosmoking16/222856610954</link>
+    <pubDate>2022.08.24</pubDate>
+    <id>2</id>
+  </item>
+  
+  <item>
+    <title>1.0.1 업데이트 내용</title>
+    <link>https://blog.naver.com/nosmoking16/222845376831</link>
+    <pubDate>2022.08.11</pubDate>
+    <id>1</id>
+  </item>
+  
+  <item>
+    <title>콘티 공유 출시</title>
+    <link>https://blog.naver.com/nosmoking16/222794511307</link>
+    <pubDate>2022.06.30</pubDate>
+    <id>0</id>
+  </item>
 </data>
