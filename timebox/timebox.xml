@@ -2,16 +2,18 @@
 
 <data>
   <item>
-      <titleKor>1.0.1 업데이트 내용</titleKor>
-      <titleEng>1.0.1 Update content</titleEng>
+      <title>1.0.1 업데이트 내용</title>
+<!--      <titleKor>1.0.1 업데이트 내용</titleKor>-->
+<!--      <titleEng>1.0.1 Update content</titleEng>-->
       <link>https://blog.naver.com/nosmoking16/223136353019</link>
       <pubDate>2023.06.23</pubDate>
       <id>1</id>
   </item>
   
     <item>
-        <titleKor>타임박스 출시</titleKor>
-        <titleEng>Release timeBox</titleEng>
+        <title>타임박스 출시</title>
+<!--        <titleKor>타임박스 출시</titleKor>-->
+<!--        <titleEng>Release timeBox</titleEng>-->
         <link>https://blog.naver.com/nosmoking16/223130488954</link>
         <pubDate>2023.06.20</pubDate>
         <id>0</id>
