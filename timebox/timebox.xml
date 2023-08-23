@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <data>
-   <item>
+  <item>
+      <titleKor>1.3.0 업데이트 내용</titleKor>
+      <titleEng>1.3.0 Update content</titleEng>
+      <link>https://blog.naver.com/nosmoking16/223191079377</link>
+      <pubDate>2023.08.23</pubDate>
+      <id>6</id>
+  </item>
+  
+  <item>
       <titleKor>1.2.0 업데이트 내용</titleKor>
       <titleEng>1.2.0 Update content</titleEng>
       <link>https://blog.naver.com/nosmoking16/223178767017</link>
